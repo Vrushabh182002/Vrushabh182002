@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **Javascript, React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Vrushabh182002](https://github.com/Vrushabh182002)
+- 👨‍💻 All of my projects are available at Vrushabh-Somani(https://github.com/Vrushabh182002)
 
 - 💬 Ask me about **Web Dev & Tech**
 
 - 📫 How to reach me **vssomani2002@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1k0zqhas9MDWrrTRmxxS8ZT5pyWT0uxgv/view?usp=drive_link](https://drive.google.com/file/d/1k0zqhas9MDWrrTRmxxS8ZT5pyWT0uxgv/view?usp=drive_link)
+- 📄 Know about my experiences Projects(https://drive.google.com/file/d/1k0zqhas9MDWrrTRmxxS8ZT5pyWT0uxgv/view?usp=drive_link)
 
 - ⚡ Fun fact **Everything revolves arounds you.**
 
