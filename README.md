@@ -11,7 +11,7 @@
 
 - 📫 Reach me through **vssomani2002@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1k0zqhas9MDWrrTRmxxS8ZT5pyWT0uxgv/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1xPtiZYKkLNdSw2d1GqTJBWSkc7r54Xp0/view?usp=share_link)
 
 - ⚡ Fun fact **Everything revolves around you.**
 
