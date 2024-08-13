@@ -1,15 +1,13 @@
 <h1 align="center">Hello 👋, I'm Vrushabh Somani</h1>
-<h3 align="left">A passionate Web Developer based in Chennai, Tamil Nadu. I have a strong enthusiasm for Web Development & Artificial Intelligence and am always eager to learn and explore new things in this ever-evolving field. Currently pursuing my Bachelor of Technology in Computer Science Engineering w/s in Artificial Intelligence & Machine Learning at SRM Institute of Science & Technology, Kattankulathur. I'm always excited to connect with fellow developers, enthusiasts, and anyone interested in Web Development & Latest Technology. Feel free to contact me or connect with me on LinkedIn or Instagram. If you're interested in collaborating on a project, have ideas to discuss, or want to chat, don't hesitate to get in touch. I believe that great things happen when creative minds come together! Thanks for visiting my GitHub profile. Feel free to explore my repositories, star the projects you find interesting, and let's embark on this coding journey together! 🚀 Keep coding, keep creating!!</h3>
+<h3 align="left">A passionate Web Developer based in Chennai, Tamil Nadu. I have a strong enthusiasm for Web Development & Artificial Intelligence and am always eager to learn and explore new things in this ever-evolving field. Pursued my Bachelor of Technology in Computer Science Engineering w/s in Artificial Intelligence & Machine Learning at SRM Institute of Science & Technology, Kattankulathur. I'm always excited to connect with fellow developers, enthusiasts, and anyone interested in Web Development & Latest Technology. Feel free to contact me or connect with me on LinkedIn or Instagram. If you're interested in collaborating on a project, have ideas to discuss, or want to chat, don't hesitate to get in touch. I believe that great things happen when creative minds come together! Thanks for visiting my GitHub profile. Feel free to explore my repositories, star the projects you find interesting, and let's embark on this coding journey together! 🚀 Keep coding, keep creating!!</h3>
 
-- 🌱 I’m currently learning **Javascript, React**
+- 🌱 I’m currently learning **Express, MongoDB**
 
 - 👨‍💻 All of my projects are available at [Vrushabh-Somani](https://github.com/Vrushabh182002)
 
 - 💬 Ask me about **Web Dev & Tech**
 
 - 📫 Reach me through **vssomani2002@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1hoC7wqu5PEcuhfvHGHVOc9_Z1oCAKU6j/view?usp=drivesdk)
 
 - ⚡ Fun fact **Everything revolves around you.**
 
