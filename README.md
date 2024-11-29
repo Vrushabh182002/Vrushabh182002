@@ -15,11 +15,11 @@ Hi! My name is Vrushabh Somani 😄
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/vrushabhsomani/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn Badge"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/vrushabhsomani/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://www.instagram.com/vrushabhsomani/">
+    <img src="https://img.shields.io/badge/instagram-blue?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram Badge"/>
   </a>
 </div>
 
