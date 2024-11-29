@@ -25,4 +25,4 @@ Hi! My name is Vrushabh Somani 😄
 
 ### Github Stats
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vrushabh182002&" alt="vrushabh182002" />
+![Vrushabh182002's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vrushabh182002&theme=tokyonight&hide_border=true)
