@@ -22,7 +22,3 @@ Hi! My name is Vrushabh Somani 😄
     <img src="https://img.shields.io/badge/instagram-blue?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram Badge"/>
   </a>
 </div>
-
-### Github Stats
-
-![Vrushabh182002's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vrushabh182002&theme=tokyonight&hide_border=true)
