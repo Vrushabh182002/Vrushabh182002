@@ -1,24 +1,36 @@
-Hi! My name is Vrushabh Somani 😄
-========================================================================================================================================
 
-🌍 I am a MERN Stack Developer based in Chennai, Tamil Nadu, India.
-<br/>
-📚 Completed My Bachelor from SRM Institute Of Science And Technology in B.Tech Computer Science Engineering with a specialization in Artificial Intelligence & Machine Learning.
-<br/>
+# Hi there, I'm Vrushabh Somani 👋  
 
-### Skills
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=MERN+Stack+Developer;Angular+Enthusiast;)](https://git.io/typing-svg)  
 
-[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=js,react)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=mongodb,java)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=tailwind,figma)](https://skillicons.dev)
-<br/>
+🚀 **MERN Stack Developer | Angular Enthusiast**  
+🌍 Based in Chennai, Tamil Nadu, India  
+💼 Currently working at **Tata Consultancy Services (TCS), GIFT City, Gandhinagar, Gujarat, India**  
 
-### Socials
+I’m passionate about building scalable web applications, crafting clean user experiences, and exploring the latest in **AI & Machine Learning**.  
 
-<div id="badges">
+🎓 Graduated with a **B.Tech in Computer Science Engineering** (Specialization: Artificial Intelligence & Machine Learning) from **SRM Institute of Science and Technology**.  
+
+---
+
+## 🛠️ Tech Stack  
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,mongodb,express,react,nodejs,angular,tailwind,java&perline=10)](https://skillicons.dev)  
+
+---
+
+## 🌐 Connect with Me  
+
+<p align="left">
   <a href="https://www.linkedin.com/in/vrushabhsomani/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/-Vrushabh%20Somani-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/vrushabhsomani/">
-    <img src="https://img.shields.io/badge/instagram-blue?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram Badge"/>
-  </a>
-</div>
+</p>  
+
+## 👀 Profile Visitors  
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Vrushabh182002&label=Profile%20Views&color=blue&style=flat" alt="profile views"/>
+</p>  
+
+✨ *Always learning, building, and pushing boundaries in tech.*  
