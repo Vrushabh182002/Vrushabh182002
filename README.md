@@ -1,7 +1,7 @@
 
 # Hi there, I'm Vrushabh Somani 👋  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Frontend+Engineer+at+TCS;MERN+Stack+Developer;Angular+&+React+Developer;)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Frontend+Engineer+at+TCS;Angular+&+React+Developer;)](https://git.io/typing-svg)  
 
 🚀 **Frontend Engineer at TCS | Angular & React Developer**  
 🌍 Based in Gandhinagar, Gujarat, India  
